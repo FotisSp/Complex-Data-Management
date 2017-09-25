@@ -1,0 +1,8 @@
+latitude=26.123, longitude=35.733 distance=2.5981438178814806
+latitude=26.168, longitude=35.678 distance=9.567346167058618
+latitude=26.193, longitude=35.743 distance=8.054739268171414
+latitude=26.121, longitude=35.724 distance=3.4960953656816534
+latitude=26.152, longitude=35.725 distance=4.758929596978302
+latitude=26.122, longitude=35.759 distance=0.0
+latitude=26.093, longitude=35.748 distance=3.406580125938961
+latitude=26.103, longitude=35.756 distance=2.1338352371033786
